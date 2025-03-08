@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.container {
+  text-align: center; /* Centers inline elements like text and images */
+}
+
+.centered-image {
+  display: block; /* Makes the image a block-level element */
+  margin: 0 auto; /* Centers the image horizontally */
+}
